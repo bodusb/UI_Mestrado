@@ -1,0 +1,61 @@
+<?xml version ="1.0" encoding = "UTF-8"?>
+
+<screen>
+
+    <frame id = 0> <!-- Starts with SpaceView -->
+        <name>spaceview</name>
+		<viewport>main</viewport>
+        <fHeight>100</fHeight> <fWidth>100</fWidth>
+        <fX>0</fX> <fY>0</fY>
+		<BackgroundColor r = 0 g = 0 b = 0></BackgroundColor>
+    </frame>
+
+    <frame id = 1>  <!-- Starts with ParamView -->
+        <name>paramview</name>
+		<viewport>aux1</viewport>
+        <fHeight>30</fHeight> <fWidth>20</fWidth>
+        <fX>0</fX> <fY>5</fY>
+		<BackgroundColor r = 0 g = 100 b = 0></BackgroundColor>
+    </frame>
+
+    <frame id = 2>  <!-- Starts with satView -->
+        <name>satview</name>
+		<viewport>aux2</viewport>
+        <fHeight>30</fHeight> <fWidth>20</fWidth>
+        <fX>0</fX> <fY>35</fY>
+		<BackgroundColor r = 255 g = 255 b = 0></BackgroundColor>
+    </frame>
+
+    <frame id = 3>  <!-- Starts with graphView -->
+        <name>graphview</name>
+		<viewport>aux3</viewport>
+        <fHeight>30</fHeight> <fWidth>20</fWidth>
+        <fX>0</fX> <fY>65</fY>
+		<BackgroundColor r = 255 g = 0 b = 0></BackgroundColor>
+    </frame>
+
+    <frame id = 4>  <!-- Starts with logView -->
+        <name>logview</name>
+		<viewport>aux4</viewport>
+        <fHeight>100</fHeight> <fWidth>20</fWidth>
+        <fX>80</fX> <fY>0</fY>
+		<BackgroundColor r = 0 g = 100 b = 255></BackgroundColor>
+    </frame>
+
+    <frame id = 5>  <!-- Starts with systemView -->
+        <name>systemview</name>
+		<viewport>botton</viewport>
+        <fHeight>5</fHeight> <fWidth>80</fWidth>
+        <fX>0</fX> <fY>95</fY>
+		<BackgroundColor r = 0 g = 0 b = 255> </BackgroundColor>
+    </frame>
+
+    <frame id = 6>  <!-- Starts with timelineView -->
+        <name>timelineview</name>
+		<viewport>top</viewport>
+        <fHeight>5</fHeight> <fWidth>80</fWidth>
+        <fX>0</fX> <fY>0</fY>
+		<BackgroundColor r = 0 g = 255 b = 255></BackgroundColor>
+    </frame>
+
+</screen>

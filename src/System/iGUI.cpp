@@ -1,0 +1,21 @@
+///////////////////////////////////////////////////////////
+//  iGUI.cpp
+//  Implementation of the Class iGUI
+//  Created on:      06-set-2013 14:19:58
+//  Original author: Christopher
+///////////////////////////////////////////////////////////
+
+#include "iGUI.h"
+
+
+iGUI::iGUI(){
+
+}
+
+
+
+iGUI::~iGUI(){
+
+}
+
+
